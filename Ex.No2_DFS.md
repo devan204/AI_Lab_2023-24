@@ -45,6 +45,7 @@ dfs(visited,graph,'5')
 
 
 ### Output:
+![image](https://github.com/user-attachments/assets/75259032-f10e-4651-91ac-09f9852e2cfe)
 
 
 
