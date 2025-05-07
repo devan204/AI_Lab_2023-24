@@ -52,6 +52,7 @@ bfs(visited, graph, '5')    # function calling
 
 
 ### Output:
+![image](https://github.com/user-attachments/assets/011d3a5d-3594-401a-a8bf-ae96f352f0e5)
 
 
 
